@@ -70,6 +70,6 @@ void display() {
 int main()
 {
 	input();
-	insertionsort;
+	insertionsort; 
 	display();
 }
