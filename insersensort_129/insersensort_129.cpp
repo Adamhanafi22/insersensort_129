@@ -71,5 +71,5 @@ int main()
 {
 	input();
 	insertionsort; 
-	display();
+	display(); 
 }
