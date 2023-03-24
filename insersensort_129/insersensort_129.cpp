@@ -25,7 +25,7 @@ void input() {
  
 	for (int i = 0; 1 < n; i++)
 	{
-		cout << "data ke -" << (1 + 1) << ":";
+		cout << "data ke -" << (i + 1) << ":";
 		cin >> arr[1];
 
 	}
