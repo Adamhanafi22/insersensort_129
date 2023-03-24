@@ -52,7 +52,14 @@ void insertionsort() {
 		for (int k = 0; k < n; k++){
 			cout << arr[k] << " ";
 		}
-
-
 	}
+}
+
+void display() {
+	cout << endl;
+	cout << "\n==========================" << endl;
+	cout << "element array telah tersusun" << endl;
+	cout << "============================" << endl;
+
+	for
 }
