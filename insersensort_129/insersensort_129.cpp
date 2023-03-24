@@ -22,5 +22,5 @@ void input() {
 	cout << "=====================" << endl;
 	cout << "masukan element array" << endl;
 	cout << "=====================" << endl;
-
+ 
 }
