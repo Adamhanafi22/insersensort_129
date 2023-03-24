@@ -61,5 +61,5 @@ void display() {
 	cout << "element array telah tersusun" << endl;
 	cout << "============================" << endl;
 
-	for
+	for (int )
 }
